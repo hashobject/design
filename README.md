@@ -1,7 +1,7 @@
 design
 ======
 
-Design materials for the HashObject team.
+HashObject team design materies.
 
 ## License
 
