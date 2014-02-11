@@ -1,7 +1,7 @@
 design
 ======
 
-HashObject team design materies.
+Hashobject team design materies.
 
 ## License
 
